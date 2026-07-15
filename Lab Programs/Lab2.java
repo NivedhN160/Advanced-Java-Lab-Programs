@@ -4,7 +4,7 @@
 
 class Animal {
     public void displayBehavior() {
-        System.out.println("Animal makes a generic sound.");
+        System.out.println("Animal makes a generic sound.");    
     }
 }
 
